@@ -1,6 +1,7 @@
 #include "ofMain.h"
 #include "ofxFastNoise.h"
 #include "ofxImGui.h"
+#include "ImHelpers.h"
 
 class ofApp : public ofBaseApp
 {
